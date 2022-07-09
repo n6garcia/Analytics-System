@@ -65,7 +65,7 @@ fetch("https://noeldev.site/api/static", {
 
 /* Activity Vars */
 
-/*
+
 // left click
 window.addEventListener("click", e => {
     let actJson = {
@@ -214,5 +214,3 @@ window.addEventListener("blur", e =>{
 });
 
 // user page? : TODO
-
-*/
